@@ -6,6 +6,7 @@ Team Members:
 Anusha Shah  - Role 
 Carlos Parra - Role
 Kirtan Shrestha - Role 
+James Johnson - Role
 _______________________
 Project description: 
 This project is a team-based software project created for our class sprint. 
