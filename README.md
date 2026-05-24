@@ -7,7 +7,7 @@ Anusha Shah  - Role
 Carlos Parra - Role
 Kirtan Shrestha - Role 
 _______________________
-Project description: -
+Project description: 
 This project is a team-based software project created for our class sprint. 
 The goal is to practice GitHub collaboration, branching, commits, pull requests, and team contribution tracking.
 # Branch Structure
