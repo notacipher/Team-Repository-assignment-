@@ -7,4 +7,4 @@ Anusha Shah Shah - Role
 Carlos Parra - Role
 Kirtan Shrestha - Role 
 _______________________
-Project description: 
+Project description: -
