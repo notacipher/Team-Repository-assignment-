@@ -6,6 +6,7 @@ Team Members:
 
 Anusha Shah  - Designer  
 Carlos Parra - Leader 
+
 Kirtan Shrestha - Role pending 
 _______________________
 Project description: 
