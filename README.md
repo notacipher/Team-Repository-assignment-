@@ -1,12 +1,11 @@
 # Team-Repository-assignment-
 This is for the assignment Initial Repository Setup. 
-Project name: -Pending- 
+Project name: Grocery Tracker 
 _______________________
 Team Members: 
-Anusha Shah  - Role 
-Carlos Parra - Role
-Kirtan Shrestha - Role 
-James Johnson - Role
+Anusha Shah  - Designer  
+Carlos Parra - Leader
+Kirtan Shrestha - Role pending 
 _______________________
 Project description: 
 This project is a team-based software project created for our class sprint. 
