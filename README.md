@@ -5,8 +5,7 @@ _______________________
 Team Members: 
 
 Anusha Shah  - Designer  
-Carlos Parra - Leader 
-Kirtan Shrestha - Role pending 
+Carlos Parra - Leader Kirtan Shrestha - Role pending 
 _______________________
 Project description: 
 This project is a team-based software project created for our class sprint. 
