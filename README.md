@@ -3,6 +3,7 @@ This is for the assignment Initial Repository Setup.
 Project name: Grocery Tracker 
 _______________________
 Team Members: 
+
 Anusha Shah  - Designer  
 Carlos Parra - Leader
 Kirtan Shrestha - Role pending 
